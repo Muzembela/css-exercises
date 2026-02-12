@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+#div1 {
+    background-color: white;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    color: blue;
+    font-size: 32px;
+}
+
+#div2 {
+    background-color: #62c062;
+    color: black;
+    font-size: 30px;
+}
+
+.impar {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    color: black;
+}
